@@ -1,5 +1,5 @@
 # 💫 About Me:
-Back-end web dev
+App and web dev
 
 
 ## 🌐 Socials:
